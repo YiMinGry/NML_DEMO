@@ -3,10 +3,10 @@
   
 # 플레이 데모 영상
 - **링크:** https://youtu.be/YJLQ6wJI1JE
-- 
+  
 # 작업 코드 레포지토리
 - **링크:** https://github.com/YiMinGry/code_repository
-- 
+  
 # 게임 조작 방법
 
 ## 이동 및 시점 조작
