@@ -1,3 +1,5 @@
+# 플레이 데모 파일
+- **링크:** http://naver.me/xWTDESXF
 
 # 게임 조작 방법
 
